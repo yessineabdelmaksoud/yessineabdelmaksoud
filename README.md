@@ -1,4 +1,10 @@
-# Yessine Abdelmaksoud
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Yessine%20Abdelmaksoud&fontColor=ffffff&fontSize=40&animation=fadeIn" width="100%" alt="Yessine Abdelmaksoud" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+%26+AI+engineer;LLM+agents+%26+fine-tuning;Data+pipelines+to+production;Open+to+a+2027+PFE+internship" alt="Software & AI engineer · LLM agents & fine-tuning · Data pipelines to production · Open to a 2027 PFE internship" />
+</p>
+
+## Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" alt="waving hand" />
 
 Software and AI engineer in Sfax, Tunisia. I take systems from raw data to production: pipelines, models, LLM agents, and the APIs and interfaces people actually use.
 
@@ -9,7 +15,7 @@ Software and AI engineer in Sfax, Tunisia. I take systems from raw data to produ
 
 [Portfolio](https://yessineabdelmaksoud.github.io) · [LinkedIn](https://www.linkedin.com/in/yessine-abdelmaksoud-a63b27270/) · [Codeforces](https://codeforces.com/profile/yessine.abdelmaksoud.03)
 
-## Selected work
+## Selected work <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" alt="rocket" />
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -20,6 +26,12 @@ Software and AI engineer in Sfax, Tunisia. I take systems from raw data to produ
 | [Jenkins agent](https://github.com/yessineabdelmaksoud/jenkins-agent) | AI agent that monitors Jenkins builds and explains failures. | LangGraph, Python |
 | [Kubernetes platform](https://github.com/yessineabdelmaksoud/k8s-project) · [Hadoop HA](https://github.com/yessineabdelmaksoud/Hadoop-HA) | Reproducible local clusters with CI/CD, provisioned end to end. | Vagrant, Ansible, Kubernetes, Hadoop |
 
-## Tools I use most
+## Tools I use most <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="32" alt="hammer and wrench" />
 
-Python · FastAPI · LangGraph · Hugging Face · scikit-learn · React · Angular · Flutter · Docker · Kubernetes · Ansible · Azure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,react,angular,flutter,docker,kubernetes,ansible,azure,linux,git" alt="Python, FastAPI, PyTorch, React, Angular, Flutter, Docker, Kubernetes, Ansible, Azure, Linux, Git" />
+</p>
+
+Also: LangGraph · Hugging Face · scikit-learn · Ollama
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" width="100%" alt="" />
